@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Posts by Topic
+title: Entradas por temas
 ---
 <ul>
 {% for tags in site.tags %}
@@ -9,8 +9,8 @@ title: Posts by Topic
 </ul>
 
 <p class="message">
-  Topics has to grow.
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Los temas tienen que crecer.
+ ¡Hola! Esta página se incluye como ejemplo. Siéntase libre de personalizarlo para su propio   uso al descargarlo. ¡Continua!
 </p>
 
 {% for tags in site.tags %}
@@ -21,5 +21,3 @@ title: Posts by Topic
     {% endfor %}
   </ul>
 {% endfor %}
-
-Thanks for reading!

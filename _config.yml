@@ -10,7 +10,7 @@ gems: [jekyll-paginate]
 # Setup
 title:            hispn.com
 tagline:          'Hispanos'
-description:      "Agregador del estado de los paises hispanos."
+description:      "Agregador de datos paises hispanos."
 url:              https://hispn.com/
 baseurl:          /
 plugins: [jekyll-paginate]
