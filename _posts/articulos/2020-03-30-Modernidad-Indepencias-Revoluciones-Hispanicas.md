@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Los origenes de la revolucion de 1809 en Quito
-tags: [conocimiento, libro, saber, historia]
+categories: [articulos]
 ---
 
 Rodriguez O., Jaime E.

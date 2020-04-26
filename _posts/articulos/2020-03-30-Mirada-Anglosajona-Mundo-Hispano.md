@@ -1,7 +1,7 @@
 ---
 layout: post
-title: La Monarquia Catolica, la sociedad novohispana y la indepedencia
-tags: [conocimiento, libro, saber, historia]
+title: Mirada anglosajona al mundo hispano
+categories: [articulos]
 ---
 
 Tomas Perez Vejo

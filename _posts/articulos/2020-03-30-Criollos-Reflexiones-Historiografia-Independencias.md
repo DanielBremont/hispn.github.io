@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ¿Criollos contra criollos? Reflexiones en torno a la historiografía de las independencias
-tags: [conocimiento, libro, saber, historia]
+categories: [articulos]
 ---
 
 Tomás Pérez Vejo

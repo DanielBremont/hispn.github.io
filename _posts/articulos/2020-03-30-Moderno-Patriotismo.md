@@ -1,7 +1,7 @@
 ---
 layout: post
 title: El moderno patriotismo
-tags: [conocimiento, libro, saber, historia]
+categories: [articulos]
 ---
 
 Tomás Pérez Vejo

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: La Fidelidad al Rey. Donativos y Prestamos Novohispanos para la Guerra Contra Napoleon
-tags: [conocimiento, libro, saber, historia]
+categories: [articulos]
 ---
 
 Marco Antonio Landavazo

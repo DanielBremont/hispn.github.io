@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ecos del Trienio Liberal en los reinos americanos
-tags: [conocimiento, libro, saber, historia]
+categories: [articulos]
 ---
 
 Dra. Cecilia del Socorro Landa Fonseca

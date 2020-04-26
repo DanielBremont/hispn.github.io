@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ¿Capitales para una nación o naciones para una capital?
-tags: [conocimiento, libro, saber, historia]
+categories: [articulos]
 ---
 
 Tomás Pérez Vejo

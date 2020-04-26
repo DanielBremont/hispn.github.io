@@ -1,14 +1,8 @@
 ---
 layout: post
 title: Elegia Criolla Una representacion de las guerras de indepdencia hispanoamericanas. 
-tags: [conocimiento, libro, saber, historia]
+categories: [libros]
 ---
-
-* Reeinterpretación de las guerras de independencia.
-
-<!--more-->
-
- http://www.jstor.org/stable/23339614
 
 El debate acerca de las guerras de independencia ya tiene muchos años. Parece
 cierto ya que no eran guerras de liberación nacional porque faltaban naciones en el
@@ -64,7 +58,9 @@ primera mitad del siglo XIX. Estas guerras civiles tuvieron dos fases. La primer
 se inicia cuando el colapso de la Monarquía Católica en España y Hispanoamérica
 produjo un vacío de poder en el cual ninguna institución nueva logró recuperar la
 soberanía real, ni las juntas locales, ni la Junta Central, ni la Regencia, ni las Cortes
-de Cádiz porque la Constitución (1812) llegó para muchas regiones demasiado tarde. Antiguos distritos administrativos rompieron su relación con la Monarquía.
+de Cádiz porque la Constitución (1812) llegó para muchas regiones demasiado tarde. 
+Antiguos distritos administrativos rompieron su relación con la Monarquía.
+
 En la segunda fase de estas guerras civiles vemos en los jóvenes países que surgen
 de la disgregación territorial el desmantelamiento de una vieja forma de legitimi
 dad y su sustitución por una legitimidad de tipo nacional y una organización de la
@@ -95,6 +91,14 @@ luciones no se terminaron con la independencia, sino se prolongó por décadas. 
 crítica básica a la historiografía tradicional nacionalista es que confundió causas
 con consecuencias. 
 
-Raymond Buve, Universidad de Leiden 
+<!-- http://www.jstor.org/stable/23339614 -->
+
+**Raymond Buve, Universidad de Leiden**
   
-Thanks for reading!
+<!--more-->
+
+# ¿Por qué volver sobre las guerras de independencia?
+# Las palabras como armas: ¿Revolución, guerra de indepdencia o guerra civil?
+# ¿Una guerras de liberación nacional sin naciones?
+# Criollos contra peninsulares: La bella leyenda
+# De la revolución de la Indepdencia a las revoluciones de las indepedencias

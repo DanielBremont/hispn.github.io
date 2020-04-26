@@ -5,26 +5,20 @@ highlighter:      rouge
 # Permalinks
 permalink:        pretty
 
-gems: [jekyll-paginate]
-
 # Setup
 title:            hispn.com
 tagline:          'Hispanos'
 description:      "Agregador de datos paises hispanos."
 url:              https://hispn.com/
 baseurl:          /
-plugins: [jekyll-paginate]
 excerpt_separator: <!--more-->
-
 
 author:
   name:           'Daniel Victorino Bremont'
   url:            https://hispn.com/
 
-paginate:         5
-
 # Custom vars
-version:          1.0.0
+version:          2.0.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/DanielBremont/hispn.github.io
