@@ -42,3 +42,6 @@ meta
 node_modules
 .jekyll-cache
 vendor
+
+Makefile
+.jekyll-metadata
