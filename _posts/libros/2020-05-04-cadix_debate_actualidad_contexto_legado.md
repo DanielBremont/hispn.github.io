@@ -2,10 +2,12 @@
 proyecto: hispn.com
 nombrepost: cadix_debate_actualidad_contexto_legado
 title: Cadiz a debate - actualidad, contexto y legado
-categories: libros
+categories: [libros]
 ---
 
 <!--more-->
+
+No funciona.
 
 # Los rumbos imprevistos de cadiz
 # Cadiz y las fabulas de la historiografia occidental
