@@ -80,6 +80,7 @@ La nacion se caracterizan como algo no politico, es natural y ahistorica.
 
 > El sentirse mienbro de una nacion es una cuestion de imagenes mentales, de "comunidad imaginada". <br/> Anderson.
 
+
 > Cuando las masas se han tornado indiferentes a la fe y a la practica del cristianismo historico, han tendido, mas bien, a aceptar algun otro de los sustitutivos que los intelectuales han  preparado para ellos y que les resultan mas atractivos, entre los cuales los mas importantes son el comunismo y el nacionalismo -- con ventaja para este ultimo, que tiene ese algo de caracter calido y piadoso que falta al comunismo --. No es tan fria e impersonalmente materialista. Tiene valor espiritual y, a diferencia del comunismo, parte de la basica verdad religiosa que nos dice que no solo de pan vive el hombre. <br/> <br/> Hayes
 
 
@@ -87,3 +88,7 @@ La nacion se caracterizan como algo no politico, es natural y ahistorica.
 
 - Nacionalismos oficiales 
 - Nacionalismos folkloricos
+
+Tiene libros para el caso de la nacion espaniola:
+[José Álvarez Junco](https://es.wikipedia.org/wiki/Jos%C3%A9_%C3%81lvarez_Junco)
+
