@@ -2,7 +2,7 @@
 proyecto: hispn.com
 nombrepost: sociedad_novohispana
 title: La sociedad novohispana - Estereotipos y realidades
-categories: libros
+categories: [libros]
 ---
 
 <!--more-->

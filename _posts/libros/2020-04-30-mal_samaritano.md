@@ -2,7 +2,7 @@
 proyecto: hispn.com
 nombrepost: mal_samaritano
 title: Mal Samaritano
-categories: libros
+categories: [libros]
 ---
 
 <!--more-->

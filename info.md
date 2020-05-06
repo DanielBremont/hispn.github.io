@@ -43,6 +43,8 @@ Ethos de la monarquia catolica
 
 * Usar la ciencia de las redes y la complexidad economica para medir el crecimiento economico de hispanoamerica.
 
+* Relación de los lazos culturales y el comercio.
+
 - [Economic Complexity Index](https://en.wikipedia.org/wiki/Economic_Complexity_Index)
 
 # Estadisticas
