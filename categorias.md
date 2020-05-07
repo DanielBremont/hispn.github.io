@@ -6,12 +6,18 @@ title: Categorias
 <p class="message">
   Se puede dejar de lado la identidad nacional es un sistema politico, y en vez defender el bienestar comun,
   sin tocar la identidad.
-</p>
+</p>  
 
-**Post :** {{site.posts | size}}
+<ul>
+{% for cat in site.categories %}
+<li>
+  <a href="#{{ cat[0] }}"> {{ cat[0] }} ({{ cat[1].size }})</a>
+  </li>
+{% endfor %}
+</ul>
 
 {% for cat in site.categories %}
-  <h2 id="{{ cat[0] }}">{{ cat[0] }} ({{ cat[1].size }})</h2>
+  <h2 id="{{ cat[0] }}">{{ cat[0] }} </h2>
   <ul>
     
     {% for post in cat[1] reversed %}
