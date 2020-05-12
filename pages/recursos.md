@@ -36,6 +36,8 @@ orden: 3
 - [The Harvard Atlas of Economic Complexity](https://atlas.cid.harvard.edu/)
 - [The Observatory of Economic Complexity](https://oec.world/en/)
 - [New Things Under the Sun](https://mattsclancy.substack.com/)
+- [Atlas of Economic Complexity](https://atlas.cid.harvard.edu/)
+- [Our World in Data](https://ourworldindata.org/)
 
 # Posts
 
