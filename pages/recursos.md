@@ -24,7 +24,7 @@ orden: 3
 - [Erik S. Reinert](https://en.wikipedia.org/wiki/Erik_S._Reinert)
 
 
-Journals
+# Journals
 
 - [Laboratory of Agent-Based Social Simulation](http://labss.istc.cnr.it/)
 - [Computational Social Science Society of the Americas](https://computationalsocialscience.org/)
@@ -36,6 +36,8 @@ Journals
 - [The Harvard Atlas of Economic Complexity](https://atlas.cid.harvard.edu/)
 - [The Observatory of Economic Complexity](https://oec.world/en/)
 - [New Things Under the Sun](https://mattsclancy.substack.com/)
+
+# Posts
 
 <ul>
 {% for cat in site.categories %}
