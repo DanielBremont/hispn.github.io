@@ -22,6 +22,7 @@ orden: 3
 - [Cesar Hidalgo](https://chidalgo.com/)
 - [Ha-Joon Chang](http://hajoonchang.net/)
 - [Erik S. Reinert](https://en.wikipedia.org/wiki/Erik_S._Reinert)
+  - [Papers](https://econpapers.repec.org/RAS/pre309.htm){:target="_blank"}
 
 
 # Journals
@@ -34,9 +35,8 @@ orden: 3
 - [Historia de Mexico](https://historiamexicana.colmex.mx/)
 - [Biblioteca Digital del Pensamiento Novohispano](http://www.bdpn.unam.mx/)
 - [The Harvard Atlas of Economic Complexity](https://atlas.cid.harvard.edu/)
-- [The Observatory of Economic Complexity](https://oec.world/en/)
+- [The Observatory of Economic Complexity (OEC)](https://oec.world/en/)
 - [New Things Under the Sun](https://mattsclancy.substack.com/)
-- [Atlas of Economic Complexity](https://atlas.cid.harvard.edu/)
 - [Our World in Data](https://ourworldindata.org/)
 
 # Posts
