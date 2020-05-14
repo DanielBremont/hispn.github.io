@@ -4,6 +4,11 @@ title: Informacion
 orden: 4
 ---
 
+<p class="message">
+  Se puede dejar de lado la identidad nacional es un sistema politico, y en vez defender el bienestar comun,
+  sin tocar la identidad.
+</p>  
+
 # Intro
 
 Introduction a hispn:
