@@ -23,6 +23,10 @@ h6 :focus
     transform: translateX(0)
 }
 
+.toc-list-item{
+	margin-bottom: 2px;
+}
+
 a.toc-link {
     text-decoration: none
 }
