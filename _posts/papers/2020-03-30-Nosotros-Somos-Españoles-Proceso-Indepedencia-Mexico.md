@@ -1,7 +1,7 @@
 ---
 layout: post
 title: «Nosotros somos ahora los verdaderos españoles». El proceso de la independencia de México
-categories: [articulos]
+categories: [papers]
 ---
 
 Rodriguez O., Jaime E.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Una propuesta para el estudio comparado de un imperio global sin colonias la accion de goberino de Francisco Fernadez de la Cueva, IV Duque de Albuerquerte, Virrey de la Nueva Espana (1653-1660)  y de Sicilia (1667-1670)
-categories: [articulos]
+categories: [papers]
 ---
 
 Sobre la base del proceso de revision historiografica, introduci por la Historia Global, la presente intervencion quiere proponer una refflexion sobre la oportunidad cientifica y metodologica de comparar directametne los dominios italianos con los territorios indianos de la Monarquia Catolica.

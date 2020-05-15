@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Republicas de españoles, antiguo regimen y privigelios
-categories: [articulos]
+categories: [papers]
 ---
 ñ
 
