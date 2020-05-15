@@ -4,11 +4,10 @@ title: Gente de saber en los Vireinatos de Hispanoamerica
 categories: [articulos]
 ---
 
-GENTE DE SABER EN LOS VIRREINATOS DE HISPANOAMÉRICA (siglos XVI a XVIII)
-Óscar Mazín El Colegio de México
-
 <!--more-->
-  
+
+# Intelectuales
+
 Los intelectuales no existieron como tales en los virreinatos de la Nueva España y del Perú.
 A partir del célebre caso Dreyfus (1894) que diera a la palabra su sentido actual, nuestra
 noción del intelectual supone la posibilidad de hacer la crítica del Estado-nación de manera
@@ -105,6 +104,8 @@ que en su seno hallaron autores, docentes y artistas. La corte de México, por e
 resultó primordial para la obra de sor Juana Inés de la Cruz, quien se benefició del amparo
 y la protección de la virreina. Pero también resultó decisiva la correspondencia entre grupos
 animados por el saber en diferentes regiones.
+
+# Monarquía Planetaria
 
 En una monarquía de escala planetaria, gobernada por escrito y a distancia, es
 preciso considerar que las ideas, los textos y los objetos circularon rápidamente a través de
