@@ -9,7 +9,7 @@ tags: [conocimiento, libro, saber, econ]
 Naked Money: A Revealing Look at Our Financial System
 
 Topics 
-
+t
 - What is Money?
 - Inflation and Deflation
 - The Science, Art, Politics, and Psychology of Prices
