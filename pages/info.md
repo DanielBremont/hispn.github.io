@@ -35,6 +35,8 @@ El centro de estudio debe ser la indepedncia.
 * Ciencias  en los virreinatos
 * Imagen de los virrenatos en de si mismos y desde fuera
 * Vision sobre la idea de españa, intentos de 
+* The economic development puzzle
+
 
 Ethos de la monarquia catolica
 
