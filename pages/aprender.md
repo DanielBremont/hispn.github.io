@@ -20,3 +20,27 @@ orden: 1
 DISCOVER YOUR PERFECT INVESTOR IN MINUTES, NOT MONTHS
 [Ir](https://unicorn-nest.com/home)
 
+- Se puede dejar de lado la identidad nacional es un sistema politico, y en vez defender el bienestar comun, sin tocar la identidad.
+
+- Economia
+    - Productos
+    - Monopolios (Prohibiciones de la siembra en america)
+    - Reglas y Registricciones
+    - Consultado de Comerciantes
+
+- Fundar ciudades como republicas
+- Ciencias  en los virreinatos
+- Imagen de los virrenatos en de si mismos y desde fuera
+- Vision sobre la idea de españa, intentos de 
+- The economic development puzzle
+
+
+Ethos de la monarquia catolica
+
+- Sistemas legales
+- De donde provenian los sistemas legales
+
+- Mitos de la conquista
+- Mitos de la guerra de indendencia
+
+- [Economic Complexity Index](https://en.wikipedia.org/wiki/Economic_Complexity_Index)
