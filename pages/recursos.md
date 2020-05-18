@@ -20,8 +20,6 @@ orden: 7
 - [François-Xavier Guerra](https://es.wikipedia.org/wiki/Fran%C3%A7ois-Xavier_Guerra)
 - [Jaime Rodríguez Ordóñez](https://es.wikipedia.org/wiki/Jaime_Rodr%C3%ADguez_Ord%C3%B3%C3%B1ez)
 - [Regina Grafe](https://www.eui.eu/DepartmentsAndCentres/HistoryAndCivilization/People/Professors/Grafe)
-- [Carlos Marichal](https://carlosmarichal.colmex.mx/)
-- [Horst Pietschmann](https://uni-hamburg.academia.edu/HorstPietschmann)
 - [Ricardo Hausmann](https://www.hks.harvard.edu/faculty/ricardo-hausmann)
 - [Cesar Hidalgo](https://chidalgo.com/)
 - [Ha-Joon Chang](http://hajoonchang.net/)
