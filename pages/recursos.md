@@ -35,7 +35,6 @@ orden: 7
 - [Computational Social Science Society of the Americas](https://computationalsocialscience.org/)
 - [European Social Simulation Association (ESSA)](http://www.essa.eu.org/)
 - [Real Hacienda Colmex](https://realhacienda.colmex.mx/)
-- [Plaza de armas](http://www.plazadearmas.tv/debate.htm)
 - [Historia de Mexico](https://historiamexicana.colmex.mx/)
 - [Biblioteca Digital del Pensamiento Novohispano](http://www.bdpn.unam.mx/)
 - [The Harvard Atlas of Economic Complexity](https://atlas.cid.harvard.edu/)

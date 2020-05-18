@@ -6,6 +6,8 @@ orden: 1
 
 - Diminishing returns
 - Real Wages
+- The economic development puzzle
+
 
 - Auction theory:
     - [Wikipedia](https://en.wikipedia.org/wiki/Auction_theory)
@@ -27,12 +29,8 @@ orden: 1
 - Ciencias  en los virreinatos
 - Imagen de los virrenatos en de si mismos y desde fuera
 - Vision sobre la idea de españa, intentos de 
-- The economic development puzzle
 
 - Ethos de la monarquia catolica
-
-- Sistemas legales
-- De donde provenian los sistemas legales
 
 - Mitos de la conquista
 - Mitos de la guerra de indendencia
