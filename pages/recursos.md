@@ -9,6 +9,9 @@ orden: 7
 - [Social and Economic Networks: Models and Analysis](https://www.coursera.org/learn/social-economic-networks)
 - [Networks, Crowds and Markets](https://www.edx.org/es/course/networks-crowds-and-markets)
 - [Structural Analysis and Visualization of Networks](http://www.leonidzhukov.net/hse/2015/networks/)
+- [Network Analysis and Modeling CSCI 5352](http://tuvalu.santafe.edu/~aaronc/courses/5352/)
+- [How to Develop Breakthrough Products and Services](https://ocw.mit.edu/courses/sloan-school-of-management/15-356-how-to-develop-breakthrough-products-and-services-spring-2012/)
+- [Teoria de los Juegos](http://www.game-theory-class.org/)
 
 # Personas
 

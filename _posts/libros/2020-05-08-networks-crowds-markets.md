@@ -4,10 +4,12 @@ title: Networks, Crowds, and Markets - Reasoning About a Highly Connected World
 categories: libros
 ---
 
+[Ir](http://www.cs.cornell.edu/home/kleinber/networks-book/)
+
 <!--more-->
 
-# Overview
-# Graphs
+# [Overview](http://www.cs.cornell.edu/home/kleinber/networks-book/networks-book-ch01.pdf)
+# [Graphs](http://www.cs.cornell.edu/home/kleinber/networks-book/networks-book-ch02.pdf)
 # Strong and Weak Ties
 # Networks in Their Surrounding Contexts
 # Positive and Negative Relationships

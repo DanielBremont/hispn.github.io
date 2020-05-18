@@ -4,21 +4,16 @@ title: Aprender
 orden: 1
 ---
 
-# Cursos
-
 - Diminishing returns
 - Real Wages
 
 - Auction theory:
-    - https://en.wikipedia.org/wiki/Auction_theory
-    - https://www.youtube.com/watch?v=4kWuxfVbIaU
+    - [Wikipedia](https://en.wikipedia.org/wiki/Auction_theory)
+    - [The Ideal Auction - Numberphile](https://www.youtube.com/watch?v=4kWuxfVbIaU)
 
 - Behavioral economics [Ir](https://en.wikipedia.org/wiki/Behavioral_economics)
 - Modelo economico [Ir](https://en.wikipedia.org/wiki/Economic_model)
-- robots per capita
-
-DISCOVER YOUR PERFECT INVESTOR IN MINUTES, NOT MONTHS
-[Ir](https://unicorn-nest.com/home)
+- Robots per capita
 
 - Se puede dejar de lado la identidad nacional es un sistema politico, y en vez defender el bienestar comun, sin tocar la identidad.
 
@@ -34,8 +29,7 @@ DISCOVER YOUR PERFECT INVESTOR IN MINUTES, NOT MONTHS
 - Vision sobre la idea de españa, intentos de 
 - The economic development puzzle
 
-
-Ethos de la monarquia catolica
+- Ethos de la monarquia catolica
 
 - Sistemas legales
 - De donde provenian los sistemas legales
