@@ -5,7 +5,7 @@ orden: 8
 ---
 
 <p class="message">
-Enfocado en los paises de habla hispana.
+Enfocado en los paises de habla hispana. <br/>
 Estudios sobre datasets de ciencias sociales, para construir modelos de los fenomenos sociales.
 Con especial interes en buscar datos historicos, para ver la evolucion de los fenomenos y sus respectivos modelos.
 </p>  
