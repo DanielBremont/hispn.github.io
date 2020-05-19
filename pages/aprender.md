@@ -6,7 +6,11 @@ orden: 1
 
 - Diminishing returns
 - Real Wages
+
 - The economic development puzzle
+
+- [Economic Complexity Index](https://en.wikipedia.org/wiki/Economic_Complexity_Index)
+
 - Anacronismo
 
 - Auction theory:
@@ -34,5 +38,3 @@ orden: 1
 
 - Mitos de la conquista
 - Mitos de la guerra de indendencia
-
-- [Economic Complexity Index](https://en.wikipedia.org/wiki/Economic_Complexity_Index)
