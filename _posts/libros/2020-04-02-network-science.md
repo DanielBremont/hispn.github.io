@@ -43,16 +43,4 @@ categories: [libros]
 18. Dynamical Systems on networks
 19. Network Search
 
-
-- 2. Graph Theory
-- 3. Random Networks
-- 4. The Scale-Free Property
-- 5. The Barabási-Albert Model
-- 6. Evolving Networks
-- 7. Degree Correlations
-- 8. Network Robustness
-- 9. Communities
-- 10. Spreading Phenomena
-- Preface
-
 Thanks for reading!
