@@ -104,7 +104,7 @@ con consecuencias.
 # De la revolución de la Indepdencia a las revoluciones de las indepedencias
 
 # Por qué volver sobre las guerras de independencia?
-
+    
 Pensar la desaparición de la Monarquía Católica como el Imperio de Alejandro Magno.
 La Monarquía Católica era una monarquía de ciudades, con concepciones urbanas eso cambió con la formación de estados-naciones.
 Que es una entidad política?
