@@ -1,4 +1,8 @@
-How to jump further and catch up? Path-breaking in an uneven industry space
+---
+layout: post
+title: How to jump further and catch up? Path-breaking in an uneven industry space
+categories: [papers]
+---
 
 Abstract
 
@@ -10,3 +14,6 @@ areas. Can developing countries/regions jump further to break these path-depende
 trajectories? Based on China’s export data, we show that regions can make such a
 jump by investing in extra-regional linkages and internal innovation. The effects of
 these two sets of variables vary across regions and industries.
+
+
+<!--more-->

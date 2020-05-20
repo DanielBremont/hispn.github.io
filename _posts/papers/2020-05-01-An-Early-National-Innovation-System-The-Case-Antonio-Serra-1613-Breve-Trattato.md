@@ -1,4 +1,8 @@
-An Early National Innovation System: The Case of Antonio Serra’s 1613 Breve Trattato
+---
+layout: post
+title: An Early National Innovation System  The Case of Antonio Serra’s 1613 Breve Trattato
+categories: [papers]
+---
 
 Abstract
 
@@ -20,3 +24,5 @@ meetings in 2003 to reach a trade agreement between North and South, such turmoi
 again as it becomes increasingly clear that the reigning economic dogma has failed to deliver
 on its political promises. We argue that, in the economic profession’s inevitable search for
 new means and methods, Serra’s message is again relevant. 
+
+<!--more-->

@@ -1,6 +1,6 @@
-An Early National Innovation System: The Case of Antonio Serra’s 1613 Breve Trattato
+---
+layout: post
+title: Austrian Economics the other cannon
+categories: [papers]
+---
 
-Abstract
-
-1. Typologies of Economic Theory and the Two Canons. We have recently argued that when focusing on very long-term longitudinal trends in economics, two ideal types of economic theory appear to have co-existed parallel over an extended period of time.1
-These ideal types can be seen as constituting two separate filiationsi – to use Schumpeter’s term – and they come into occasional methodological clashes. Werner Sombart fittingly calls the first tradition activistic-idealistic, a tradition born with the Renaissance. The second type of economic theory he calls passivistic-materialistic2 , a tradition having its origins with Mandeville and Adam Smith and solidifying as the ‘a-priori method’ with David Ricardo. The purpose of this paper is to outline the characteristics of the two traditions – the tradition behind today’s mainstream and ‘The Other Canon’ – and to discuss the position of Austrian economics in this context.

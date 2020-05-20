@@ -1,4 +1,8 @@
-When and how should infant industries be protected
+---
+layout: post
+title: When and how should infant industries be protected
+categories: [papers]
+---
 
 Abstract
 
@@ -19,3 +23,5 @@ of the quota is so pronounced that it compensates for any amount of government r
 to the administration of the quota (including the case of a voluntary export restraint, where no
 revenue is collected). In similar cases, the quota may even be preferred to a domestic production
 subsidy.
+
+<!--more-->

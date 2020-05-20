@@ -1,4 +1,8 @@
-How rich nations got rich. Essays in the history of economic policy
+---
+layout: post
+title: How rich nations got rich. Essays in the history of economic policy
+categories: [papers]
+---
 
 Abstract
 
@@ -16,3 +20,5 @@ right’. It was understood that the market needed a legal setting. A third stag
 was reached in the mid-1990s when the watchword became ‘get the institutions right’, followed
 by ‘get the governance right’. Towards the end of the 1990s, evolutionary or neoSchumpeterian elements were added to this moving target of prescriptions: ‘get the
 competitiveness right’ and ‘get the innovation system right’. 
+
+<!--more-->

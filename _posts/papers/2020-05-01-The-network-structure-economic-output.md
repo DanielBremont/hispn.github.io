@@ -1,4 +1,8 @@
-The network structure of economic output
+---
+layout: post
+title: The network structure of economic output
+categories: [papers]
+---
 
 Abstract
 
@@ -17,3 +21,5 @@ the increase in diversification that is expected from the accumulation of a smal
 capabilities is small for countries that have a few of them and large for those with many.
 This implies that the forces that help drive divergence in product diversity increase with the
 complexity of the global economy when capabilities travel poorly.
+
+<!--more-->

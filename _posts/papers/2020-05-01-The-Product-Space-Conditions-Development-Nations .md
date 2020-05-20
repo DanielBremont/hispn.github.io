@@ -1,4 +1,8 @@
-The Product Space Conditions the Development of Nations
+---
+layout: post
+title: The Product Space Conditions the Development of Nations
+categories: [papers]
+---
 
 Abstract
 
@@ -13,3 +17,5 @@ product space to upgrade their exports basket more quickly. Most countries can r
 the core only if they “jump” over empirically infrequent distances in the product space.
 This may help explain why poor countries have trouble developing more competitive
 exports, failing to converge to the income levels of rich countries. 
+
+<!--more-->

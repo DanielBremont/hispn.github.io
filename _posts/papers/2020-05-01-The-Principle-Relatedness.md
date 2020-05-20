@@ -1,4 +1,8 @@
-The network structure of economic output
+---
+layout: post
+title: The principle of relatedness
+categories: [papers]
+---
 
 Abstract
 
@@ -12,3 +16,5 @@ empirical evidence that has generalized the principle of relatedness to a fact
 describing the entry and exit of products, industries, occupations, and technologies, at the national, regional, and metropolitan scales. We conclude by
 describing some of the policy implications and future avenues of research
 implied by this robust empirical principle.
+
+<!--more-->

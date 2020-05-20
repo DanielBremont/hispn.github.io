@@ -1,4 +1,8 @@
-The building blocks of economic complexity
+---
+layout: post
+title: The building blocks of economic complexity
+categories: [papers]
+---
 
 Abstract
 
@@ -19,3 +23,5 @@ countries tend to converge to the level of income dictated by the
 complexity of their productive structures, indicating that development efforts should focus on generating the conditions that would
 allow complexity to emerge to generate sustained growth and
 prosperity.
+
+<!--more-->

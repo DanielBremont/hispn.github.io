@@ -1,4 +1,8 @@
-Six Reasons Manufacturing is Central to the Economy
+---
+layout: post
+title: Six Reasons Manufacturing is Central to the Economy
+categories: [papers]
+---
 
 Abstract
 

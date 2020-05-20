@@ -1,4 +1,8 @@
-Collective Learning in China’s Regional Economic Development
+---
+layout: post
+title: Collective Learning in China’s Regional Economic Development
+categories: [papers]
+---
 
 Abstract
 
@@ -22,3 +26,6 @@ speed-rail increased the industrial similarity of pairs of provinces connected b
 provinces that were connected by rail increased their productivity when they were connected by rail to other provinces
 where that industry was already present. These findings suggest that inter-regional and inter-industry learning played
 a role in China’s great economic expansion.
+
+
+<!--more-->

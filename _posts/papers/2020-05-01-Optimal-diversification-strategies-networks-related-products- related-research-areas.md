@@ -1,4 +1,8 @@
-Optimal diversification strategies in the networks of related products and of related research areas
+---
+layout: post
+title: Optimal diversification strategies in the networks of related products and of related research areas
+categories: [papers]
+---
 
 Abstract
 
@@ -12,3 +16,5 @@ during a narrow and specific time window. We compare the strategies suggested by
 model with the strategies followed by countries in the diversification of their exports and
 research activities, finding that countries follow strategies that are close to the ones suggested by the model. These findings add to our understanding of economic diversification and
 also to our general understanding of diffusion in networks.
+
+<!--more-->

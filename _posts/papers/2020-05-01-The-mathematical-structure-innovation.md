@@ -1,4 +1,8 @@
-The mathematical structure of innovation
+---
+layout: post
+title: The mathematical structure of innovation
+categories: [papers]
+---
 
 Abstract
 
@@ -12,3 +16,5 @@ formula for the extent to which technological recursion increases or
 decreases the likelihood of making new technologies. We test our predictions on historical data from three domains and find that technologies are not built up from scratch, but are the result of new combinations of existing technologies. This suggests a dynamical process by
 which known technologies were made and a strategy for accelerating
 the discovery of new ones.
+
+<!--more-->
