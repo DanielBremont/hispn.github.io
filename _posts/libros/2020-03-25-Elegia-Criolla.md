@@ -102,3 +102,45 @@ con consecuencias.
 # ¿Una guerras de liberación nacional sin naciones?
 # Criollos contra peninsulares: La bella leyenda
 # De la revolución de la Indepdencia a las revoluciones de las indepedencias
+
+# Por qué volver sobre las guerras de independencia?
+
+Pensar la desaparición de la Monarquía Católica como el Imperio de Alejandro Magno.
+La Monarquía Católica era una monarquía de ciudades, con concepciones urbanas eso cambió con la formación de estados-naciones.
+Que es una entidad política?
+Nombres: Monarquia Catolica, España, o Imperio Español. Cual es el más correcto?
+La constitución de cádiz de 1812 fue un intento para convertir a la Monarquía Católica en un estado nación.
+La Monarquía Católica era un conglomerado de reinos, provincias y señoríos unidos por la común fidelidad al monarca. Las reglas de funcionamiento de la Monarquía Católica son distintas a las de un estado nación.
+En la Monarquía Católica habían vasallos no ciudadanos.
+El significado más común de Español era blanco, aunque podrían haber otros.
+Las naciones no fueron la causa de la guerra de independencia si no la consecuencia.
+Montesquieu, Las indias y España son dos poderes bajo un mismo amo.
+Carlos María de Bustamante, influyente en el relato de la “independencia de méxico”.
+Fue la ciudad de méxico de 1700 a 1800 fue más imponente que madrid?
+Los estudios sobre la independencia deben centrarse en la Monarquia Catolica y no en los estados-naciones que nacen de su disolución.
+Historiografía nacionalista los estados-nación hispanos.
+Perennidad histórica, la idea de que las naciones duran hasta siempre. Siempre han existido.
+El estado inventó la nación.
+La nación históricamente no fue sujeto político.
+Las guerras de independencia fueron un conflicto político, de lucha por la legitimidad del poder, y es en este contexto en el que deben de ser estudiadas si se quieren entender su sclaves últimas y definitivas.
+Ahora lo anterior, no indica que no dirimieron en otros problemas raciales, económicos, etc. Hasta tal vez suplantar el problema político.
+Interpretación de las Independencias a través del entendimiento de la monarquia catolica.
+Fray Servando Teresa de Mier en su HIstoria de la revolución de Nueva España, argumenta que lo que ocurría desde 1808, era un rompimiento del pacto entre la Monarquía y los reinos americanos.
+Paso de defender a la religión, el rey y la patria, a la proclamación de soberanías y sujetos políticos alternativos al rey a la monarquía.
+La exclusión de los descendientes de africanos de la ciudadanía en cadiz 1812, es un problema que más allá de bajar la representación en corte de los territorios americanos, también tiene arraigo en que la nación imaginada en cádiz en 1812, era una biología europea (blanca) y americana (india).
+
+# Las palabras como armas: Revolucion, Guerra de Independencia o Guerra Civil?
+Por qué es tan difícil aceptar el carácter de guerra civil en hispanoamérica?
+La visión en la península de la guerra de la insurrección de hispanoamérica fue la de liberales vs absolutistas, lo mismo que estaba pasando en la península.
+Javier Mina, el heroe por accidente.
+Los primeros diputados a la corte de cadiz por los americanos eran suplentes.
+En 1910 Laureano Vallenilla Lanz afirmaba que la “independencia de venezuela” fue una guerra civil.
+Enrique Gandia en “La Independencia Americana” afirmaba que hubo una guerra civil y después una guerra de independencia.
+El imperio austro-húngaro fue el último cuya legitimidad se basaba en el monarca y no en la nación.
+España como realidad  política no existía en 1800.
+Que es la soberanía?
+Modernidad Política?
+La idea de identificar reino con nación.
+En cuales partes de américa la idea de reinos se arraigó más?
+Dos visiones de la monarquía católica borbónica, para américa: Nacionalización de la monarquía o crear un imperio colonial convirtiendo a américa en una colonia de una nueva institución llamada España.
+
