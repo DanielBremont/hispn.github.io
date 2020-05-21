@@ -4,6 +4,22 @@ title: Aprender
 orden: 1
 ---
 
+{::options parse_block_html="true" /}
+
+<div class="message"> 
+**Para realizar mis tareas:**
+
+- Write your goals on a sheet of paper.     
+- Circle the three most important. 
+- Avoid doing any work on anything that’s not circled.
+- Consejo: Usar la **técnica del pomodoro** 😉.
+
+</div>
+
+{::options parse_block_html="false" /}
+
+<!--more-->
+
 - Diminishing returns
 - Real Wages
 
