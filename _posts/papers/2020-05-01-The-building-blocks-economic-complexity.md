@@ -34,4 +34,4 @@ We look at country product associations by using international trade data with p
 
 $$k_{c,0}$$ and $$k_{p,0}$$ represent, respectively, the observed levels of diversification of a country (the number of products exported by that country), and the ubiquity of a product (the number of countries exporting that product).
 
-... Todo
+(...) Todo
