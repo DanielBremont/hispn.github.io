@@ -4,8 +4,6 @@ title: How rich nations got rich. Essays in the history of economic policy
 categories: [papers]
 ---
 
-
-
 <!--more-->
 
 ## Concensus on Development:
