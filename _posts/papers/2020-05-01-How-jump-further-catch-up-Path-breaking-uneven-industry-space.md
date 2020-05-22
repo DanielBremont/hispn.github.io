@@ -71,7 +71,7 @@ To investigate whether regions are able to break old pathways and diversify to l
 
 Two industries are considered to be related to each other if regions tend to have revealed comparative advantage ($\text{RCA}$) in both. The proximity ($\psi$) between industry $i$ and industry $j$ in year $t$ can be calculated as:
 
-$$\psi_{i,j} = \text{min} \{P(\text{RCA}_{c,i} \gt 1 | \text{RCA}_{c,j} \gt 1), P(\text{RCA}_{c,j} \gt 1 | \text{RCA}_{c,i} \gt 1)\} $$ (1)
+$$\psi_{i,j} = \text{min} \{P(\text{RCA}_{c,i} \gt 1 \| \text{RCA}_{c,j} \gt 1), P(\text{RCA}_{c,j} \gt 1 \| \text{RCA}_{c,i} \gt 1)\} $$ (1)
 
 where
 
