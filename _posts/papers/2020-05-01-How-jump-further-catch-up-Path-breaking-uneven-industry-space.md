@@ -77,9 +77,9 @@ where
 
 $$\text{RCA}_{c,i}  = \frac{\text{ExportValue}_{c,i} *\sum_{c,i} \text{ExportValue}_{c,i} } {\sum_{i} \text{ExportValue}_{c,i}* \sum_c{\text{ExportValue}_{c,i}} } $$(2)
 
-$\text{RCA}_{c,i}$ is the $\text{RCA}$ of industry $\text{i}$ in city $\text{c}$.
+$$\text{RCA}_{c,i}$ is the $\text{RCA}$ of industry $\text{i}$ in city $\text{c}$$.
 
-City $c$ is considered as having a comparative advantage in industry $i$, if $\text{RCA}_{c,i}$ is above $1$.
+City $$c$$ is considered as having a comparative advantage in industry $$i$$, if $$\text{RCA}_{c,i}$$ is above $$1$$.
 
 ## Model specifications
 
