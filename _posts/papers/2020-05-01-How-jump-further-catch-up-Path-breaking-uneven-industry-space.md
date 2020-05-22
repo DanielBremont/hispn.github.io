@@ -69,15 +69,15 @@ These variables are computed using export data of Chinese firms during 2002–20
 
 To investigate whether regions are able to break old pathways and diversify to less related industries, we need an indicator to measure technological relatedness between industries.
 
-Two industries are considered to be related to each other if regions tend to have revealed comparative advantage ($\text{RCA}$) in both. The proximity ($\psi$) between industry $i$ and industry $j$ in year $t$ can be calculated as:
+Two industries are considered to be related to each other if regions tend to have revealed comparative advantage ($$\text{RCA}$$) in both. The proximity ($$\psi$$) between industry $$i$$ and industry $$j$$ in year $$t$$ can be calculated as:
 
-$$\psi_{i,j} = \text{min} \{P(\text{RCA}_{c,i} \gt 1 \| \text{RCA}_{c,j} \gt 1), P(\text{RCA}_{c,j} \gt 1 \| \text{RCA}_{c,i} \gt 1)\} $$ (1)
+$$\psi_{i,j} = \text{min} \{P(\text{RCA}_{c,i} \gt 1 \| \text{RCA}_{c,j} \gt 1), P(\text{RCA}_{c,j} \gt 1 \| \text{RCA}_{c,i} \gt 1)\}$$ (1)
 
 where
 
-$$\text{RCA}_{c,i}  = \frac{\text{ExportValue}_{c,i} *\sum_{c,i} \text{ExportValue}_{c,i} } {\sum_{i} \text{ExportValue}_{c,i}* \sum_c{\text{ExportValue}_{c,i}} } $$(2)
+$$\text{RCA}_{c,i}  = \frac{\text{ExportValue}_{c,i} *\sum_{c,i} \text{ExportValue}_{c,i} } {\sum_{i} \text{ExportValue}_{c,i}* \sum_c{\text{ExportValue}_{c,i}} }$$(2)
 
-$$\text{RCA}_{c,i}$ is the $\text{RCA}$ of industry $\text{i}$ in city $\text{c}$$.
+$$\text{RCA}_{c,i}$$ is the $$\text{RCA}$$ of industry $$\text{i}$$ in city $$\text{c}$$.
 
 City $$c$$ is considered as having a comparative advantage in industry $$i$$, if $$\text{RCA}_{c,i}$$ is above $$1$$.
 
