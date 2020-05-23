@@ -6,8 +6,12 @@ categories: libros
 
 <!--more-->
 
-# Introduction to Research
-# Basics of Empirical Research
-# Data Collection
-# Data Analysis
-# Epilogue
+## Introduction to Research
+
+## Basics of Empirical Research
+
+## Data Collection
+
+## Data Analysis
+
+## Epilogue
