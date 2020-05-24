@@ -8,7 +8,6 @@ categories: [libros]
 
 ## What Is History
 
-
 ## Locating the Sources
 
 ## Tools for Analysis--Secondary Sources

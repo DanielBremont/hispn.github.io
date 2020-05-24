@@ -4,14 +4,24 @@ title: Collective Learning in China’s Regional Economic Development
 categories: [papers]
 ---
 
-Abstract
+<!--more-->
 
-Industrial development is the process by which economies learn how to produce new products and services. But how
-do economies learn? And who do they learn from? 
+## Abstract
 
-The literature on economic geography and economic development has emphasized two learning channels: 
-- inter-industry learning, which involves learning from related industries; and
-- inter-regional learning, which involves learning from neighboring regions. 
+Industrial development is the process by which economies learn how to produce new products and services.
+
+- How do economies learn?s
+
+- And who do they learn from?
+
+The literature on economic geography and economic development has emphasized two learning channels:
+
+- inter-industry learning, which involves learning from related industries
+- inter-regional learning, which involves learning from neighboring regions.
+
+Data use:
+
+- Data describing the evolution of China’s economy between 1990 and 2015–a period when China multiplied its GDP per capita by a factor of ten–to explore how Chinese provinces diversified their economies.
 
 Here we use 25 years of data describing
 the evolution of China’s economy between 1990 and 2015–a period when China multiplied its GDP per capita by a
@@ -26,6 +36,3 @@ speed-rail increased the industrial similarity of pairs of provinces connected b
 provinces that were connected by rail increased their productivity when they were connected by rail to other provinces
 where that industry was already present. These findings suggest that inter-regional and inter-industry learning played
 a role in China’s great economic expansion.
-
-
-<!--more-->
