@@ -22,7 +22,6 @@ La gran riqueza de la colonia contribuyó a la estabilidad gubernamental y al di
 
 La economía de Nueva España era fuerte, se encontraba bien distribuida, y en su mayor parte funcionaba en forma independiente de la madre patria. Aunque los metales preciosos representaban el 84% de todas las exportaciones, la colonia no llegó a ser una simple monoproductora, como algunos defensores de la teoría de la dependencia han sugerido. A pesar de su carácter predominante y dinámico, la minería sólo constituía un segmento menor de la economía colonial En 1800, la minería contribuyó con 27.95 millones de pesos, o el 13% de la producción anual de México, mientras que la industria manufacturera computó 55 millones, o el 25%; la agricultura 138.63 millones, o el 62%. El extenso y variado mercado interno de México consumía el 86% de toda la producción nacional como lo demuestra la tabla I.
 
-
 **Defs**:
 
 - *Cd.*: Consumo domestico
@@ -37,7 +36,7 @@ La economía de Nueva España era fuerte, se encontraba bien distribuida, y en s
 |Industria|54 744 047|29.0|257 264|0.8|55 001 311|13.0|
 |Minería|924 25|0.|27 026 74|84.|27 951 00|13.0|
 |Total|189 450 931|100.0|32 128 690|100.0|221 579 621|100.0|
-            
+
 |Consumo doméstico|Exportaciones|Total|
 |86%|14%|100%|
 
@@ -49,9 +48,9 @@ Las minas de plata, sin embargo, servían como motores del crecimiento económic
 
 Aunque no hay cifras precisas disponibles, se puede calcular la producción de la plata a través de la acuñación, la cual representaba más del 95% de la explotación de este metal en México.
 
-**Tabla II**
+### Tabla II
 
-**Acuñación de la plata en México: 1776-1825**
+#### Acuñación de la plata en México: 1776-1825
 
 |Año|Casa Moneda|Millones de pesos|
 |1796|a|24.4|
@@ -87,10 +86,10 @@ Aunque no hay cifras precisas disponibles, se puede calcular la producción de l
 
 <small> 
 
-- **a** Casa de moneda de México. 
-- **b** Casas de moneda de México y Zacatecas. 
-- **c** Casas de moneda de México, Zacatecas y Durango. 
-- **d** Casas de moneda de México, Zacatecas, Durango y Guadalajara. 
+- **a** Casa de moneda de México.
+- **b** Casas de moneda de México y Zacatecas.
+- **c** Casas de moneda de México, Zacatecas y Durango.
+- **d** Casas de moneda de México, Zacatecas, Durango y Guadalajara.
 - **e** Durante los años de la guerra, las casas de moneda de Guadalajara y Durango no hicieron sus informes anuales. Enviaban, en cambio, cuentas periódicas que fluctuaban entre 6 y 45 meses al gobierno. Puesto que es imposible desagregar esos números, calculé promedios anuales, los que multiplicados por 12, dan como resultado las cifras anuales. Aunque esta aproximación presenta un margen de error, las cifras en la tabla son estimaciones válidas de acuñación de la plata durante ese periodo.
 
 FUENTE: Calculado a partir de los informes anuales de las casas de moneda de la ciudad de México, Guadalajara, Durango y Zacatecas, que son reproducidas por Henry G. Ward, Mexico in 1827, 2a. ed., 2 v., Londres, 1829, v. I, p. 386-391.
@@ -112,9 +111,9 @@ La inestabilidad política del país hizo de México presa fácil para la agresi
 
 Durante estos años, las rentas públicas disminuyeron de 39 millones de pesos en 1806, una de las cifras más altas, a 5.4 millones en 1823. En las últimas dos décadas del periodo colonial las entradas del gobierno habían tenido un promedio anual de 24 millones de pesos comparadas a los 12.2 millones de la primera década de la república. El promedio de las rentas públicas aumentaron entre 1834- 1844 a 23 millones de pesos al año, pero no fue sino hasta la década de 1880 que las recaudaciones sobrepasaron los últimos promedios coloniales.
 
-**Tabla III**
+### Tabla III
 
-**Rentas públicas del gobierno, 1823-1850**
+#### Rentas públicas del gobierno, 1823-1850
 
 |Año [1]|Ingreso [2]|
 |1823|5 409 722|
@@ -140,21 +139,20 @@ Durante estos años, las rentas públicas disminuyeron de 39 millones de pesos e
 |1849 [c]|23 460 820|
 |1850|16 765 762|
 
-
-- 1 El año va de julio a junio, a menos que sea señalado. Por ejemplo, 1827 incluye ingresos para el periodo de julio de 1826 a junio de 1827. 
-- 2 Ingreso neto en pesos. a Enero-agosto de 1825. 
-- b Septiembre de 1825-junio de 1826. 
+- 1 El año va de julio a junio, a menos que sea señalado. Por ejemplo, 1827 incluye ingresos para el periodo de julio de 1826 a junio de 1827.
+- 2 Ingreso neto en pesos. a Enero-agosto de 1825.
+- b Septiembre de 1825-junio de 1826.
 - c Enero de 1848-junio de 1849.
 
 <small>
-FUENTE: Estas cifras fueron calculadas a partir de la información provista en los informes del Ministerio de Hacienda del periodo 1823-1850. Memoria, México, Secretaría de Hacienda, 1823-1850.
+    FUENTE: Estas cifras fueron calculadas a partir de la información provista en los informes del Ministerio de Hacienda del periodo 1823-1850. Memoria, México, Secretaría de Hacienda, 1823-1850.
 </small>
 
 La disminución en los ingresos del gobierno reflejaba la depresión económica del periodo posterior a la independencia de México. La minería provee un ejemplo gráfico de esta crisis. La producción minera bajó de un promedio anual de 25 millones de pesos a fines del periodo colonial, a la cifra más baja de 6.5 millones de 1819, con un promedio de 11 millones al año en las cuatro décadas siguientes. Esta dramática caída se debió a la disminución de la producción, no a la baja en el precio de la plata. Entre 1801 y 1810, Nueva España extrajo 5.5 millones de kilogramos, mientras que en el periodo 1821-1830 la producción de la plata de México había bajado a 2.6 millones de kilogramos.[ 10 ]
 
-**Tabla IV**
+### Tabla IV
 
-**Producción de plata en México**
+#### Producción de plata en México
 
 |Años|Promedio quinquenalen millones de pesos|
 |1825-1829|9.2|
@@ -163,10 +161,9 @@ La disminución en los ingresos del gobierno reflejaba la depresión económica 
 |1840-1844|12.4|
 |1845-1849|15.6|
 
-<small> 
+<small>
 FUENTE: Calculado a partir de las cifras provistas por A. Soetbeer, Edelmetallproduktion un werthverh ä lniss zwischen Gold und Silver, Gotha, 1874, p. 55; Miguel Lerdo de Tejada, Comercio exterior de México desde la Conquista hasta hoy, 2a. ed., México, 1967.
 </small>
-
 
 La producción de plata no igualó los promedios de producción de fines de la Colonia sino hasta la década de 1880. Otros sectores experimentaron dislocamientos similares. Las exportaciones bajaron de 20 millones de pesos en 1800 a 5 millones en 1825, y promediaren 9.5 millones durante las tres décadas siguientes.[ 11 ]
 
@@ -178,9 +175,9 @@ La topografía es el mayor obstáculo para el uso de los limitados recursos natu
 
 Las guerras de Independencia dañaron severamente la agricultura, el comercio, la industria y la minería, así como la compleja pero delicada infraestructura de la nación. Lamentablemente, las más serias batallas ocurrieron en el centro de México, la zona agrícola y minera más rica del país. Los rebeldes quemaban haciendas, mataban ganado, arruinaban el equipo minero y paralizaban el comercio. Las fuerzas realistas se desquitaban empleando tácticas contraterroristas, devastando regiones que habían capitulado o apoyado a los insurgentes. El gobierno virreinal perdió control de la mayor parte del país, que cayó en manos de bandas rebeldes o militares realistas que actuaban sin considerar las leyes o las necesidades de la economía del país. Alrededor de 1821, al obtener México su independencia, la nación se encontraba en un estado de caos y la economía en ruinas.[ 16 ] Aunque es imposible calcular todo el impacto producido por las luchas de la Independencia, J. M. Quirós provee los mejores cómputos sobre las pérdidas causadas por las luchas entre 1810 y 1816. Él, como otros, mantiene que la agricultura sufrió gran daño, pero como lo demuestra, el golpe más severo a la economía de México lo constituyó la pérdida de capital; el dinero fue sacado del país o retirado de circulación.
 
-**Tabla V**
+### Tabla V
 
-**Cálculos de los daños causados por las guerras de la Independencia**
+#### Cálculos de los daños causados por las guerras de la Independencia
 
 |Pérdidas en la agricultura|70 000 000|
 |Pérdidas en la minería|20 000 000|
@@ -260,50 +257,3 @@ Para comparar los ingresos per cápita de los ingleses, los mexicanos y el de lo
 [ 8 ] La historia política del periodo posterior a la independencia de México sigue siendo confusa. Entre los mejores estudios están: William S. Robertson, Iturbide of Mexico, Durham, 1952; Romeo Flores Caballero, La contrarrevolución en la independencia, México, 1969; Jaime E. Rodríguez O., The emergence of Spanish America, Berkeley, 1975; Michael P. Costeloe, La Primera República Federal de México, 1824-1835, México, 1975; Charles Macune, El Estado de México y la federación mexicana, México, 1978; Fernando Díaz Díaz, Caudillos y caciques, México, 1972; Moisés González Navarro, Anatomía del poder en México, México, 1977.
 
 [ 9 ] Karl Marx y Friedrich Engels, Collected works, 16 v., Nueva York, 1976, v. VIII, p. 365-366. Marx también reconoció que los mexicanos de los territorios conquistados podrían perder su "independencia" y sufrir discriminación, pero, en su opinión, esto no tenía mayor importancia en comparación con el progreso que podrían traer los americanos. De manera similar, Friedrich Engels declaró: "En América hemos sido testigos de la conquista de México y la hemos regocijado [...]. Es por el interés de su propio desarrollo que México debería ser puesto bajo el tutelaje de los Estados Unidos". Karl Marx y Friedrich Engels, Collected works, 16 v., Nueva York, 1976, v. VI, p. 527. Aunque ambos justificaron sus posiciones basándose en el hecho de que Estados Unidos traerían el capitalismo a un México feudal, es claro que sus creencias racistas influyeron en sus análisis. En sus trabajos los mexicanos son descritos como "flojos", "decadentes" y "degenerados", mientras que los norteamericanos son llamados "enérgicos", "dinámicos" y "progresivos".
-
-[ 10 ] Jenaro González Reyna, Riqueza minera y yacimientos minerales de México, México, 1947, p. 109.
-
-[ 11 ] Miguel Lerdo de Tejada, El comercio exterior de México, 23a. ed., México, 1976, tablas no numeradas. Inés Herrera Canales, El comercio exterior de México, 1821-1875, México, 1977, p. 58-75.
-
-[ 12 ] John H. Coatsworth, "Obstacles to economic growth in nineteenth-century Mexico", American Historical Review, v. 83, n. 1, febrero 1978, p. 82 y s.
-
-[ 13 ] La disminución en el comercio se puede observar, por ejemplo, en las reducidas actividades de empresarios tales como los Sánchez Navarro. Charles H. H. Harris, A Mexican family empire: the latifundio of the Sanchez-Navarro family, 1765-1867, Austin, 1975; Fernando Díaz Díaz, Caudillos y caciques, México, 1972. Moisés González Navarro (Anatomía del poder en México, México, 1977), examina el papel de los patrones regionales, y Harry Cross analiza los niveles de vida del México rural del siglo XIX en Zacatecas, "Living. Standards in rural nineteenth century Mexico: Zacatecas, 1820- 1880", Journal of Latin American Studies, v. 10, n. 1, mayo 1978, p. 1-19.
-
-[ 14 ] La mejor obra en geografía de México es la de Jorge L. Tamayo, Geografía general de México, 2a. ed., 4 v., México, 1962. Véase también Claude Bataillon, Las regiones geográficas en México, México, 1960.
-
-[ 15 ] Sobre problemas de transporte terrestre, véase a Salvador Ortiz Valadés, La arriería en México, México, 1929, y a Peter Rees, Transporte y comercio entre México y Veracruz, 1519-1910, México, 1976. David R. Ringrose presenta un excelente análisis de problemas similares en España en su obra Transportation and economic stagnation in Spain, 1750-1850, Durham, 1970.
-
-[ 16 ] Romeo Flores Caballero, La contrarrevolución en la independencia, México, 1969, p. 66-82. Christon Archer sostiene, en "The Royalist Army in New Spain: civil-military relationships, 1810- 1821", trabajo leído en la reunión de la Southern Historical Association, en Atlanta, en 1979, que grupos armados controlaban la mayor parte del país durante las guerras de Independencia. En su opinión, el gobierno nacional había perdido todo el control en las provincias.
-
-[ 17 ] Joel R. Poinsett, Notes on Mexico, Filadelfia, 1824, p. 178-179.
-
-[ 18 ] G. F. Lyon, Journal of a residence and tour in the Republic of Mexico in 1826, 2 v., London, 1828, v. I, p. 192-193.
-
-[ 19 ] Lucas Alamán, Historia de México, 5 v., México, 1942, v. II, p. 65-66.
-
-[ 20 ] Citado en Doris M. Ladd, The Mexican nobility at Independence, Austin, 1976, p. 147.
-
-[ 21 ] Para una excelente descripción de los léperos, véase Joel R. Poinsett, Notes on Mexico, Filadelfia, 1824, y a Fanny Calderón de la Barca, Life in Mexico, New York, 1966, p. 91-92.
-
-[ 22 ] Henry G. Ward, Mexico in 1827, 2a. ed., 2 v., London, 1829, v. I, p. 398-400.
-
-[ 23 ] Henry G. Ward, Mexico in 1827, 2a. ed., 2 v., London, 1829, v. I, p. 388-400. José María Quirós, Memoria de estatuto, Veracruz, 1817, p. 24-29.
-
-[ 24 ] Sobre inversiones mineras británicas, véase a Newton R. Gilmore, British mining ventures in early national Mexico, tesis doctoral, Berkeley, Universidad de California, 1956, y Robert W. Randall, Real del Monte: a British mining venture in Mexico, Austin, 1972.
-
-[ 25 ] Robert A. Potash, El Banco de Avío de México: el fomento de la industria, 1821-1846, México, 1959; Dawn Keremitsis, La industria textil mexicana en el siglo XIX, México, 1978.
-
-[ 26 ] Doris M. Ladd, The Mexican nobility at Independence, Austin, 1976, p. 39-140. Sobre pequeños propietarios, véase a David Brading, Haciendas and ranchos in Mexican Bajio: León, 1700-1860, Cambridge, Cambridge University Press, 1978.
-
-[ 27 ] El estudio de la agricultura mexicana en el siglo XIX continúa desarrollándose. Entre los mejores trabajos están: David Brading, Haciendas and ranchos in Mexican Bajio: León, 1700-1860, Cambridge, Cambridge University Press, 1978; Erik van Young, Rural life in eighteenth century Mexico: the Guadalajara region, 1675-1820, disertación doctoral, Universidad de California, Berkeley, 1978; los trabajos de Jan Bazant, entre ellos Cinco haciendas mexicanas, México, 1975, y Charles H. H. Harris, A Mexican family empire: the latifundio of the Sanchez-Navarro family, 1765-1867, Austin, 1975. Aunque no se limita a la agricultura, el trabajo de Harry Cross, The mining economy of Zacatecas, Mexico in the nineteenth century, disertación doctoral, Universidad de California, Berkeley, 1976, contiene mucha información sobre las condiciones rurales.
-
-[ 28 ] Miguel Lerdo de Tejada, El comercio exterior de México, 23a. ed., México, 1976, tablas no numeradas; Inés Herrera Canales, El comercio exterior de México, 1821-1875, México, 1977, p. 58-71; Jenaro González Reyna, Riqueza minera y yacimientos minerales de México, México, 1947, p. 109-110.
-
-[ 29 ] El mejor estudio de la Iglesia como banco es el de Michael P. Costeloe, Church wealth in Mexico, London, Cambridge, 1976. Richard Lindley analiza la naturaleza del crédito personal y su decadencia en Kinship and credit in the structure of Guadalajara's oligarchy, 1800-1830, tesis doctoral, Universidad de Texas, Austin, 1975).
-
-[ 30 ] Colin M. MacLachlan y Jaime E. Rodríguez O., The forging of the cosmic race: a reinterpretation of Colonial Mexico, Berkeley, 1980, p. 262-299.
-
-[ 31 ] Romeo Flores Caballero, La contrarrevolución en la independencia, México, 1969, p. 28-65; Asunción Lavrin, "The execution of the Law of Consolidación in New Spain", Hispanic American Historical Review, n. 52, febrero 1973, p. 27-49.
-
-[ 32 ] Cfr. Alejandro von Humboldt, Essai politique sur le royaume de la Nouvelle-Espagne, 5 v., París, 1811.
-
