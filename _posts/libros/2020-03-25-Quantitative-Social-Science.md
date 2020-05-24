@@ -5,21 +5,18 @@ categories: [libros]
 tags: [conocimiento, libro, saber, ml]
 ---
 
-<!--Resumen-->
-
-Topics 
-
-- Introduction
-- Causality
-- Measurement
-- Prediction
-- Discovery
-- Probability
-- Uncertanty
-
----
-
 <!--more-->
-TODO
-  
-Thanks for reading!
+
+## Introduction
+
+## Causality
+
+## Measurement
+
+## Prediction
+
+## Discovery
+
+## Probability
+
+## Uncertainty
