@@ -4,6 +4,8 @@ title: El imperio de los austrias españoles y el atlantico - Propuesta para una
 categories: [papers]
 ---
 
+Por [Alejandra B. Osorio](https://www.wellesley.edu/history/faculty/osorio)
+
 <!--more-->
 
 ## Abstract
