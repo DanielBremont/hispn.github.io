@@ -6,70 +6,21 @@ categories: [articulos]
 
 <!--more-->
 
-# Intelectuales
+## Intelectuales
 
-Los intelectuales no existieron como tales en los virreinatos de la Nueva España y del Perú.
-A partir del célebre caso Dreyfus (1894) que diera a la palabra su sentido actual, nuestra
-noción del intelectual supone la posibilidad de hacer la crítica del Estado-nación de manera
-independiente. Ahora bien, esta última entidad tampoco se dio en las llamadas Indias
-occidentales entre los siglos XVI y XVIII. Nuestro enfoque debe, por lo tanto, prescindir de la
-consideración del origen y la consolidación del Estado en su progreso lento pero
-inexorable. Recordemos que en aquellos siglos el poder político no constituía una esfera
-pública distinta de una sociedad formada por cuerpos. Por el contrario, se hallaba siempre
-disperso y la jurisdicción del rey concurría con las de otras instancias de autoridad. Por lo
-tanto, es impensable entender la “posición intelectual” de aquel entonces sin una
-cosmovisión en la que intervenga un conjunto muy amplio de conocimientos, de ideas y
-creencias.
+Los intelectuales no existieron como tales en los virreinatos de la Nueva España y del Perú. A partir del célebre caso Dreyfus (1894) que diera a la palabra su sentido actual, nuestra noción del intelectual supone la posibilidad de hacer la crítica del Estado-nación de manera independiente. Ahora bien, esta última entidad tampoco se dio en las llamadas Indias occidentales entre los siglos XVI y XVIII. Nuestro enfoque debe, por lo tanto, prescindir de la consideración del origen y la consolidación del Estado en su progreso lento pero inexorable. Recordemos que en aquellos siglos el poder político no constituía una esfera pública distinta de una sociedad formada por cuerpos. Por el contrario, se hallaba siempre disperso y la jurisdicción del rey concurría con las de otras instancias de autoridad. Por lo tanto, es impensable entender la “posición intelectual” de aquel entonces sin una cosmovisión en la que intervenga un conjunto muy amplio de conocimientos, de ideas y creencias.
 
-La extrema parcelación del conocimiento prevaleciente en nuestros días tampoco
-nos sirve para entender a sus exponentes de hace cuatro o cinco siglos. Esa fragmentación
-minimiza, y aun falsea, un ambiente otrora convencido de la unidad del saber y de la
-pluralidad de las lenguas y de las “artes” que lo expresaban con orden, razón y concierto.
-De acuerdo con una tradición ininterrumpida y sin solución de continuidad entre la
-Península ibérica y las Indias occidentales, desde muy antiguo se escogió en la primera el
-modelo ideal de la “escuela de Atenas” y se reclamó para las segundas su adscripción
-legítima a “las costumbres de España”. Este solo hecho es testimonio de movilidad y de
-contactos muy estrechos a lo largo de siglos con el resto de la cuenca mediterránea, es decir
-con Grecia, con Bizancio, incluso con el Oriente y con el norte de África. La imagen de
-aquella “escuela” no correspondió a la filosofía, sino al conjunto de las artes liberales cuyo
-conocimiento llevaba a una cosmología centrada en el hombre y su universo. No había,
-pues, separación de saberes, aunque sí una cierta especialización: un médico era al mismo
-tiempo gramático y filósofo natural; un jurista habría estudiado filosofía y teología e incluso matemáticas; 
-un matemático conocería la astrología, la música y la filosofía.
+La extrema parcelación del conocimiento prevaleciente en nuestros días tampoco nos sirve para entender a sus exponentes de hace cuatro o cinco siglos. Esa fragmentación minimiza, y aun falsea, un ambiente otrora convencido de la unidad del saber y de la pluralidad de las lenguas y de las “artes” que lo expresaban con orden, razón y concierto. De acuerdo con una tradición ininterrumpida y sin solución de continuidad entre la
 
-Pensamiento jurídico, filosófico y científico fueron, pues, las diversas facetas de un mismo
-saber (Rucquoi, 1998: 246). Nuestro propósito es trazar aquí las líneas maestras de ese
-saber en la Nueva España y en el Perú, echando una mirada comprensiva a los personajes
-que lo profesaron de manera sobresaliente. A falta entonces de “intelectuales”, nos parece
-que “gente de saber” es un término justo, pues aun cuando la voz “letrado” designó en los
-siglos XVI y XVII a aquellos que ejercían las letras, ella acabó aplicándose con prioridad a
-los juristas abogados.
+Península ibérica y las Indias occidentales, desde muy antiguo se escogió en la primera el modelo ideal de la “escuela de Atenas” y se reclamó para las segundas su adscripción legítima a “las costumbres de España”. Este solo hecho es testimonio de movilidad y de contactos muy estrechos a lo largo de siglos con el resto de la cuenca mediterránea, es decir con Grecia, con Bizancio, incluso con el Oriente y con el norte de África. La imagen de aquella “escuela” no correspondió a la filosofía, sino al conjunto de las artes liberales cuyo conocimiento llevaba a una cosmología centrada en el hombre y su universo.No había, pues, separación de saberes, aunque sí una cierta especialización: un médico era al mismo tiempo gramático y filósofo natural; un jurista habría estudiado filosofía y teología e incluso matemáticas;  un matemático conocería la astrología, la música y la filosofía.
 
-Es preciso añadir que la tradición del saber de origen mediterráneo antes evocada
-fue indisociable de una profunda convicción docente que hizo de la enseñanza una práctica
-medular. Convencidos de que “la ignorancia es madre de todos los errores”, y por lo tanto
-de que el saber es un deber, los reyes hispánicos adoptaron las divisas de rex magister y de
-rex sapiens. La permanencia de las escuelas palatinas y el papel fundamental desempeñado
-durante siglos por la corte en la vida cultural –recordemos el reinado epónimo de Alfonso
-X el Sabio, entre 1252 y 1284, o la biblioteca del Escorial de Felipe II, cuyo reinado se
-extendió de 1556 a 1598– atestiguan que aquéllas no fueron meras invocaciones o un
-simple deseo piadoso. Soberanos y grupos dirigentes favorecieron el conocimiento y la
-enseñanza: de las grandes figuras de “hombres doctos” de la Hispania visigótica a las
-“escuelas” de traductores de los siglos XII y XIII; de la creación de las universidades a las
-disputas jurídico teológicas en torno de la justicia de la guerra; de las grandes
-compilaciones legislativas del siglo XIII a la Recopilación de leyes de Indias; de los 
-cosmógrafos, humanistas y letrados de los siglos XV y XVI a los polígrafos y bibliógrafos
-del saber americano del siglo XVIII.
+Pensamiento jurídico, filosófico y científico fueron, pues, las diversas facetas de un mismo saber (Rucquoi, 1998: 246). Nuestro propósito es trazar aquí las líneas maestras de ese saber en la Nueva España y en el Perú, echando una mirada comprensiva a los personajes que lo profesaron de manera sobresaliente. A falta entonces de “intelectuales”, nos parece que “gente de saber” es un término justo, pues aun cuando la voz “letrado” designó en los siglos XVI y XVII a aquellos que ejercían las letras, ella acabó aplicándose con prioridad a los juristas abogados.
 
-Reiteremos. Sin solución de continuidad respecto de la Península, las Indias de
-Castilla fueron un terreno no menos fértil para la expresión de esa honda vocación por el
-saber y la enseñanza. Díganlo, si no, la controversia sobre la legitimidad de la conquista y
-la naturaleza de los indios, la avidez de los frailes de conocer la religión y las costumbres
-de las sociedades autóctonas o la práctica del rey de España de conocer para gobernar, es
-decir, de “disponer de una información segura y detallada de las cosas de las Indias”.
-Díganlo, en fin, los colegios primitivos y la fundación temprana de universidades en
-México y Lima (1551-1553); las enseñanzas de los jesuitas expulsos o incluso de los funcionarios de la primera mitad del siglo
-XIX, necesitados del conocimiento de las prácticas jurídicas, administrativas y contables “coloniales”.
+Es preciso añadir que la tradición del saber de origen mediterráneo antes evocada fue indisociable de una profunda convicción docente que hizo de la enseñanza una práctica medular. Convencidos de que “la ignorancia es madre de todos los errores”, y por lo tanto de que el saber es un deber, los reyes hispánicos adoptaron las divisas de rex magister y de rex sapiens. La permanencia de las escuelas palatinas y el papel fundamental desempeñado durante siglos por la corte en la vida cultural –recordemos el reinado epónimo de Alfonso X el Sabio, entre 1252 y 1284, o la biblioteca del Escorial de Felipe II, cuyo reinado se extendió de 1556 a 1598– atestiguan que aquéllas no fueron meras invocaciones o un simple deseo piadoso. Soberanos y grupos dirigentes favorecieron el conocimiento y la enseñanza: de las grandes figuras de “hombres doctos” de la Hispania visigótica a las “escuelas” de traductores de los siglos XII y XIII; de la creación de las universidades a las disputas jurídico teológicas en torno de la justicia de la guerra; de las grandes compilaciones legislativas del siglo XIII a la Recopilación de leyes de Indias; de los  cosmógrafos, humanistas y letrados de los siglos XV y XVI a los polígrafos y bibliógrafos del saber americano del siglo XVIII.
+
+Reiteremos. Sin solución de continuidad respecto de la Península, las Indias de Castilla fueron un terreno no menos fértil para la expresión de esa honda vocación por el saber y la enseñanza. Díganlo, si no, la controversia sobre la legitimidad de la conquista y la naturaleza de los indios, la avidez de los frailes de conocer la religión y las costumbres de las sociedades autóctonas o la práctica del rey de España de conocer para gobernar, es decir, de “disponer de una información segura y detallada de las cosas de las Indias”.
+
+Díganlo, en fin, los colegios primitivos y la fundación temprana de universidades en México y Lima (1551-1553); las enseñanzas de los jesuitas expulsos o incluso de los funcionarios de la primera mitad del siglo XIX, necesitados del conocimiento de las prácticas jurídicas, administrativas y contables “coloniales”.
 
 La continuidad de la vocación por el saber y la enseñanza es aun más manifiesta si
 consideramos que la vida de muchos de sus exponentes en la Nueva España y en el Perú
@@ -219,7 +170,7 @@ clasificación propuestos por sabios europeos contemporáneos, como Carlos Linne
 esgrimió ser los de tipo tradicional “más acomodados a la inteligencia de toda clase de
 personas” (Trabulse, 1994).
 
-SABER Y LENGUAJE
+## SABER Y LENGUAJE
 
 Lenguas y géneros literarios
 Lengua culta heredera de siglos de contactos con diferentes pueblos y religiones, el español
@@ -396,7 +347,8 @@ de una casa suscitaron enérgicas reacciones del arzobispo de México, y Pedro d
 Barnuevo (1669-1747), cortesano peruano fiel a la estética de la comedia mitológica de
 escenografía compleja.
 
-El derecho
+## El derecho
+
 Toda la organización social y política de las Indias se fincó sobre un orden normativo y
 jurisdiccional sofisticado. El rey de España heredaba una tradición mediterránea que
 durante siglos vinculó el poder a un saber esencialmente jurídico en el que confluían tanto
@@ -474,7 +426,8 @@ requería el régimen de cristiandad de las nuevas sociedades, antes que los de 
 dogmático y especulativo. Los más importantes fueron los terceros concilios de Lima
 (1583) y México (1585).
 
-Filosofía y teología
+## Filosofía y teología
+
 La dialéctica, que lleva a la filosofía y a la teología, formó parte de las materias del trivium
 en el antiguo sistema de las artes liberales. Tanto en las casas y en los colegios de
 formación de las órdenes religiosas como en las universidades de todas las Indias se
@@ -565,8 +518,8 @@ jesuitas de la Nueva España, como Antonio Núñez de Miranda (1618-1695) y Pabl
 Salceda, produjeron libros de texto sobre la scientia media, como también se llamó a las
 doctrinas probabilistas.
 
+## Medicina
 
-Medicina
 En los cronistas e historiadores del siglo XVI como Gonzalo Fernández de Oviedo (1478-1557), 
 fray Bernardino de Sahagún o el padre José de Acosta (1540-1600) se hallan
 descripciones detalladas de prácticas médicas y terapéuticas que suelen echar mano de
@@ -605,7 +558,7 @@ década de 1760 tuvo lugar la fundación de reales escuelas de esta última disc
 ambos virreinatos, así como la instalación de una academia pública de medicina con
 aprobación de la universidad y del protomedicato (Trabulse, 1994).
 
-SABER Y NATURALEZA
+## SABER Y NATURALEZA
 
 Es en el conjunto del antiguo quadrivium donde se aprecian síntomas tendientes a la
 especialización, sobre todo a partir del último tercio del siglo
@@ -617,7 +570,8 @@ estudios de filosofía. La química se mantuvo vinculada a antiguas disciplinas 
 farmacoterapia o la metalurgia. En su acepción más amplia, las comunidades científicas
 ilustradas, tanto peruana como mexicana, mantuvieron un carácter enciclopédico.
 
-Astronomía y matemáticas
+### Astronomía y matemáticas
+
 Las civilizaciones prehispánicas de América alcanzaron logros en materia de numeración y
 de cómputos calendáricos. ¿Cómo olvidar el sistema vigesimal maya o los quipus con que
 se registraban los conocimientos astronómicos? No obstante, es indudable que dicho saber
@@ -680,7 +634,8 @@ propagandistas de las nuevas teorías, prevalecieron las reservas y las omisione
 por los fenómenos físicos y la comprobación experimental se puso de manifiesto durante el
 último tercio del siglo XVIII en los Elementa recentoris philosophiae del oratoriano Benito Díaz de Gamarra y Dávalos (1745-1783) (Trabulse, 1994).
 
-Música
+### Música
+
 En tanto que saber asimilado al antiguo quadrivium, la música fue unos de los medios
 privilegiados de la cristianización. La mayor parte de la que se conserva es religiosa y se
 halla en los archivos de las iglesias catedrales, de las órdenes religiosas o en los fondos de
@@ -752,7 +707,8 @@ Lecce (Italia) en 1710 y sus contemporáneos lo describen como un “portento mu
 1746 ya componía para la catedral de México donde tres años después obtuvo el puesto de
 maestro de capilla, que conservó hasta su muerte en 1769 (Mazín, 2007).
 
-Historia natural
+### Historia natural
+
 Las tentativas de dar a las Indias un lugar en el mundo, de revelar sus secretos, remedios y
 maravillas, desembocaron en tratados de historia natural sólo difícilmente discernibles de la
 “historia moral”, conforme al estilo clásico grecorromano. Se trata de sumarios de los
@@ -790,7 +746,8 @@ tierras equinocciales. Así, el conocimiento exacto de los diámetros terrestres
 confirmar la revolución del planeta sobre su eje, fenómeno estrechamente relacionado con
 el sistema celeste de Galileo.
 
-Geografía y cartografía
+### Geografía y cartografía
+
 “Conocer mejor el espacio para gobernarlo mejor” fue una divisa del rey Felipe II. Esta
 inquietud por la eficacia se llevó al extremo cuando la Corona organizó una gran encuesta
 en todas las Indias a raíz de otra ordenada años antes para Castilla. Entre 1579 y 1586 los
@@ -834,7 +791,8 @@ atravesaban. Al describir al hombre americano, rectificó los errores de Buffon 
 debilidad del indio y su uniformidad racial. Probó además el origen asiático de los
 americanos autóctonos.
 
-Minería y metalurgia
+### Minería y metalurgia
+
 Los metales preciosos, masivamente exportados, sostuvieron buena parte de la política de la
 Corona y aseguraron la defensa del imperio. Ningún otro sector muestra de manera tan
 evidente como éste el cariz pragmático característico del saber y la enseñanza en las Indias.
@@ -862,7 +820,7 @@ hidráulicas en diversas minas. En 1802 el barón de Humboldt vio funcionar la q
 calculó y construyó para las minas de Morán, en Pachuca, la primera de su especie
 construida en América.
 
-CONCLUSIÓN
+## CONCLUSIÓN
 
 De lo aquí expuesto se desprende que la unidad del conocimiento y la pluralidad de lenguas
 y géneros que lo expresaron dio lugar, en Iberoamérica, a una república del saber fincada
@@ -895,41 +853,3 @@ del saber que aquí intentamos esbozar. Marcada por su duración y su acción en
 virreinal es acaso la aventura más colosal y original que pueblos del Occidente europeo
 hayan jamás emprendido en ultramar. Se trata de una herencia que la independencia no
 pudo borrar.
-
-
-Bibliografía
-
-Alfonso el Sabio (1930), General Estoria, t. I, ed. de Antonio G. Solalinde, Madrid.
-Bernand, Carmen y Serge Gruzinski (1993), Histoire du Nouveau Monde, París, Fayard,
-vol. 2, “Les métissages”.
-
-Becerra López, José Luis (1963), La organización de los estudios en la Nueva España,
-México, Editorial Cultura.
-
-Condarco Morales, Ramiro (1978), Historia del saber y la ciencia en Bolivia, La Paz,
-Academia Nacional de Ciencias de Bolivia.
-
-Estensoro Fuchs, Juan Carlos (2003), Del paganismo a la santidad, la incorporación de los
-indios del Perú al catolicismo, 1532-1750, Lima, Pontificia Universidad Católica de Lima,
-Centro Francés de Estudios Andinos.
-
-Jacobs, Helmut (2002), Divisiones philosophiae, Clasificaciones españolas de las artes y
-las ciencias en la Edad Media y el Siglo de Oro, Madrid, Iberoamericana.
-MacCormack, Sabine (1997), “History and law in Sixteenth-Century Peru”, en S. C.
-Humphreys (ed.), Cultures of scholarship, Ann Arbor, The University of Michigan Press,
-pp. 277-309.
-
-Mazín, Óscar (2007), Iberoamérica del descubrimiento a la independencia, México, El
-Colegio de México.
-
-Trabulse, Elías (1994), Historia de la ciencia en México (versión abreviada), México,
-
-Consejo Nacional de Ciencia y Tecnología, Fondo de Cultura Económica.
-
-Yepes, Ernesto (ed.) (1986), Estudios de historia de la ciencia en el Perú, Lima, Consejo
-
-Nacional de Ciencia y Tecnología, Sociedad Peruana de Historia de la Ciencia y la
-Tecnología, 2 vols.
-
-Zermeño, Guillermo (2001), “La filosofía jesuita novohispana en perspectiva”, en Artes de
-México, Nº 58, pp. 78-87.
