@@ -4,43 +4,54 @@ title: Network Science
 categories: [libros]
 ---
 
-<!--moer-->
+<!--more-->
 
-# Topics 
+## Topics
 
-1. Introduction
+### Introduction
 
-## Part 1: The Empirical Study of Networks
+## Part 1: The Empirical Study of Network
 
-2. Technological Networks
-3. Social Networks
-4. Networks Information
-5. Biological Networks
+### Technological Networks
+
+### Social Networks
+
+### Networks Information
+
+### Biological Networks
 
 ## Fundamental of Network Theory
 
-6. Mathematics of Networks
-7. Measures and Metrics
-8. The Large-Scale Structure of networks
+### Mathematics of Networks
+
+### Measures and Metrics
+
+### The Large-Scale Structure of networks
 
 ## Computer Algorithms
 
-9. Basic concepts of algorithms
-10. Fundamental Network algorithms
-11. Matrix Algorithms and graph partitioning
+### Basic concepts of algorithms
+
+### Fundamental Network algorithms
+
+### Matrix Algorithms and graph partitioning
 
 ## Network Models
 
-12. Random Graphs
-13. Random Graphs with general degree distributions
-14. Models of network formation
-15. Other network models
+### Random Graphs
+
+### Random Graphs with general degree distributions
+
+### Models of network formation
+
+### Other network models
 
 ## Processes on networks
 
-16. Percolation and network resilience
-17. Epidemics on networks
-18. Dynamical Systems on networks
-19. Network Search
+### Percolation and network resilience
 
-Thanks for reading!
+### Epidemics on networks
+
+### Dynamical Systems on networks
+
+### Network Search
