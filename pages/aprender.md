@@ -55,4 +55,3 @@ orden: 1
 - Mitos de la conquista
 - Mitos de la guerra de indendencia
 - [Direccion General - Contrataciones Publicas](https://www.dgcp.gob.do/)
-- [I wrote a SaaS product because the internet made me believe it'd make me rich](https://blog.stetsonblake.com/thoughts-on-learning-to-design-build-and-launch-a-saas-business/)
