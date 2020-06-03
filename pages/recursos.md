@@ -4,7 +4,7 @@ title: Recursos
 orden: 7
 ---
 
-# Cursos
+## Cursos
 
 - [Social and Economic Networks: Models and Analysis](https://www.coursera.org/learn/social-economic-networks)
 - [Networks, Crowds and Markets](https://www.edx.org/es/course/networks-crowds-and-markets)
@@ -13,7 +13,7 @@ orden: 7
 - [How to Develop Breakthrough Products and Services](https://ocw.mit.edu/courses/sloan-school-of-management/15-356-how-to-develop-breakthrough-products-and-services-spring-2012/)
 - [Teoria de los Juegos](http://www.game-theory-class.org/)
 
-# Personas
+## Personas
 
 - [Tomas Perez Vejo](https://inah.academia.edu/TomasPerezVejo)
 - [Alejandra B Osorio](https://alejandraosorio.academia.edu/)
@@ -26,8 +26,9 @@ orden: 7
 - [Erik S. Reinert](https://en.wikipedia.org/wiki/Erik_S._Reinert)
   - [Papers](https://econpapers.repec.org/RAS/pre309.htm){:target="_blank"}
 
+- [Paul Krugman](https://www.krugmantoday.com/)
 
-# Journals
+## Journals
 
 - [Laboratory of Agent-Based Social Simulation](http://labss.istc.cnr.it/)
 - [Computational Social Science Society of the Americas](https://computationalsocialscience.org/)
