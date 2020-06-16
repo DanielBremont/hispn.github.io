@@ -14,6 +14,7 @@ orden: 7
 - [Teoria de los Juegos](http://www.game-theory-class.org/)
 - [CS364A: Algorithmic Game Theory (Fall 2013)](http://timroughgarden.org/f13/f13.html)
 
+
 ## Personas
 
 - [Tomas Perez Vejo](https://inah.academia.edu/TomasPerezVejo)
