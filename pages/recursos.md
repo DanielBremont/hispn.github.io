@@ -13,7 +13,7 @@ orden: 7
 - [How to Develop Breakthrough Products and Services](https://ocw.mit.edu/courses/sloan-school-of-management/15-356-how-to-develop-breakthrough-products-and-services-spring-2012/)
 - [Teoria de los Juegos](http://www.game-theory-class.org/)
 - [CS364A: Algorithmic Game Theory (Fall 2013)](http://timroughgarden.org/f13/f13.html)
-
+- [Introduction to Computational Economics (CPS 196.2), Spring 2007](https://www2.cs.duke.edu/courses/fall07/cps196.2/)
 
 ## Personas
 
