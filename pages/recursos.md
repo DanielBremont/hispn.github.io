@@ -42,3 +42,5 @@ orden: 7
 - [The Observatory of Economic Complexity (OEC)](https://oec.world/en/)
 - [New Things Under the Sun](https://mattsclancy.substack.com/)
 - [Our World in Data](https://ourworldindata.org/)
+
+- [QuantEcon - Open source code for economic modeling](https://quantecon.org/)
