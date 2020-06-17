@@ -29,6 +29,8 @@ orden: 7
   - [Papers](https://econpapers.repec.org/RAS/pre309.htm){:target="_blank"}
 
 - [Paul Krugman](https://www.krugmantoday.com/)
+- [John Stachurski](https://johnstachurski.net/)
+- [Thomas J. Sargent](http://www.tomsargent.com/)
 
 ## Journals
 
