@@ -20,21 +20,8 @@ orden: 1
 
 <!--more-->
 
-- Diminishing returns
-- Real Wages
-
-- The economic development puzzle
-
-- [Economic Complexity Index](https://en.wikipedia.org/wiki/Economic_Complexity_Index)
-
 - Anacronismo
 
-- Auction theory:
-  - [Wikipedia](https://en.wikipedia.org/wiki/Auction_theory)
-  - [The Ideal Auction - Numberphile](https://www.youtube.com/watch?v=4kWuxfVbIaU)
-
-- Behavioral economics [Ir](https://en.wikipedia.org/wiki/Behavioral_economics)
-- Modelo economico [Ir](https://en.wikipedia.org/wiki/Economic_model)
 - Robots per capita
 
 - Se puede dejar de lado la identidad nacional es un sistema politico, y en vez defender el bienestar comun, sin tocar la identidad.
